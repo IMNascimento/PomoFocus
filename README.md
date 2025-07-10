@@ -1,79 +1,89 @@
-# [Nome do Projeto]
+# 🕒 PomoFocus
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+Boost Focus, Master Time.  
+**Um app de produtividade inspirado na técnica Pomodoro.**
+
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
-## Introdução
+---
 
-[Nome do Projeto] é uma ferramenta [descreva a principal funcionalidade ou objetivo do projeto] que oferece [benefícios principais]. Desenvolvido como um projeto open source, nosso objetivo é [explicar o objetivo principal do projeto].
+## 📋 Tabela de Conteúdos
 
-## Funcionalidades
+- [Sobre](#sobre)
+- [Funcionalidades](#funcionalidades)
+- [Pré-requisitos](#pré-requisitos)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Contribuindo](#contribuindo)
+- [Licença](#licença)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
-- Funcionalidade 1
-- Funcionalidade 2
-- Funcionalidade 3
-- [Adicione outras funcionalidades importantes]
+---
 
-## Pré-requisitos
+## 📖 Sobre
 
-Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
+**PomoFocus** é uma ferramenta de foco baseada na Técnica Pomodoro, com interface elegante, controle de tempo e registro de atividades.  
+Ideal para desenvolvedores, estudantes e qualquer pessoa que precise manter o foco com ciclos produtivos.
 
-- [Linguagem/Framework] versão X.X.X
-- [Banco de Dados]
-- [Dependências principais]
-- [Outros requisitos]
+---
 
-## Instalação
+## 🚀 Funcionalidades
 
-Siga as etapas abaixo para configurar o projeto em sua máquina local:
+- ⏱ Timer Pomodoro com pausas curtas e longas
+- 🎯 Definição de atividade atual
+- 📊 Estatísticas da sessão em tempo real
+- 🌓 Tema escuro moderno
+- 📁 Baixar relatório de produtividade
+- 🔧 Configurações dinâmicas de tempo
+- ✅ 100% frontend (HTML5, CSS3, JS puro)
+
+---
+
+## ✅ Pré-requisitos
+
+Você precisa apenas de um navegador moderno:
+
+- Google Chrome, Firefox, Edge ou Safari
+- Sem instalação! 100% frontend
+
+---
+
+## 💻 Instalação
 
 1. Clone o repositório:
-    ```bash
-    git clone https://github.com/usuario/repo.git
-    ```
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd nome-do-projeto
-    ```
-3. Crie e ative o ambiente virtual:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # Para Linux/MacOS
-    .\venv\Scripts\activate  # Para Windows
-    ```
-4. Instale as dependências:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Uso
-
-Após a instalação, você pode iniciar a aplicação com o seguinte comando:
-
 ```bash
-python manage.py runserver
+git clone https://github.com/IMNascimento/PomoFocus.git
 ```
 
-Acesse o projeto em http://localhost:8000.
+2. Abra o arquivo ```index.html``` no navegador ou hospede via GitHub Pages.
+   
+## ▶️ Uso
 
-## Exemplos de Uso
-```python
-# Exemplo de código mostrando como usar a funcionalidade principal do projeto
-```
+Abra o navegador e comece uma sessão Pomodoro!
+Defina sua atividade, clique em “Iniciar” e mantenha o foco até o tempo acabar.
+Acompanhe suas estatísticas e baixe relatórios se desejar.
 
-## Contribuindo
+## 🤝 Contribuindo
+Contribuições são bem-vindas!
+Por favor, leia o CONTRIBUTING.md antes de enviar um pull request.
 
-Contribuições são bem-vindas! Por favor, siga as diretrizes em CONTRIBUTING.md para fazer um pull request.
+## 📄 Licença
+Distribuído sob a licença MIT.
+Consulte o arquivo LICENSE para mais detalhes.
 
-## Licença
+## 👨‍💻 Autor
+Igor Nascimento – [LinkedIn](https://www.linkedin.com/in/igor-m-nascimento) | [GitHub](https://github.com/IMNascimento)
 
-Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 
-## Autores
+## 🙏 Agradecimentos
 
-Seu Nome - Desenvolvedor Principal - Seu Perfil GitHub
+Agradecimentos especiais a todos os colaboradores das empresas **SophiaLabs** e **SophiaMind** pelo apoio, visão e contribuição contínua no desenvolvimento de soluções criativas e inteligentes.
 
-## Agradecimentos
-[Recursos ou bibliotecas que você usou]
-[Qualquer outra pessoa ou organização que você queira mencionar]
+**SophiaLabs**  
+  [🔗 Website](https://sophialabs.com.br) | [💼 GitHub](https://github.com/SophiaLab)
+
+**SophiaMind**  
+  [🔗 Website](https://sophiamind.com.br) | [💼 GitHub](https://github.com/SophiaMind)
